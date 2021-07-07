@@ -7,3 +7,6 @@
 
 <h2 align="center">Hello 🌍</h2>
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunglocto&langs_count=5&theme=tokyonight)]()
+
+
